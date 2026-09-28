@@ -1,0 +1,26 @@
+Number 1 is: 679
+Number 2 is: 264
+Number 3 is: 712
+
+NUMBER BAR CHART
+Number 1: ******
+Number 2: **
+Number 3: *******
+----------------------------------------
+Number 1 is: 949
+Number 2 is: 717
+Number 3 is: 477
+
+NUMBER BAR CHART
+Number 1: *********
+Number 2: *******
+Number 3: ****
+----------------------------------------
+Number 1 is: 449
+Number 2 is: 286
+Number 3 is: 81
+
+NUMBER BAR CHART
+Number 1: ****
+Number 2: **
+Number 3: <100 no stars
